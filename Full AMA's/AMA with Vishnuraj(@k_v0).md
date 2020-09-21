@@ -35,7 +35,7 @@
    
  
  
- # Tips For API Hacking 🐱‍💻
+# Tips For API Hacking 🐱‍💻
 
 - Any tips for API hacking?
  
@@ -43,7 +43,7 @@
 The best one you can find for API testing :
 [Youtube](https://youtu.be/yCUQBc2rY9Y)*** 
 
- # Tips for Sensitive information ℹ
+# Tips for Sensitive information ℹ
 
 - While hunting most of the time which dork you found sensitive information in Github?
    
