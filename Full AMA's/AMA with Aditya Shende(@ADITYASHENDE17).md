@@ -1,7 +1,9 @@
 # AMA with Aditya Shende(@ADITYASHENDE17)
 
+<br>
 
 # About Aditya Shende 😎 and His Success 💪
+
 
 - Bhai when did you started bug hunting, what were you doing before bug hunting,how did you got started in bug hunting and what was your highest bounty ever.
 Thank You
@@ -189,7 +191,7 @@ What Tools Should We Use To Enumerate Paths, Parameters, Endpoints etc.
 
 <br>
 
-# Tips For API-Hunting 🐱‍💻
+# Tips For API-Hunting 💻
 
 - What will be your step by step methodology while testing for bugs in APIs?
   
