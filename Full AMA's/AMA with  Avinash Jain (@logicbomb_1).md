@@ -1,4 +1,11 @@
-# AMA with Avinash Jain (@logicbomb_1)
+---
+layout: post
+title:  "Infosec/Bugbounty  AMA with Avinash Jain"
+categories: infosec-bugbounty-ama
+---
+
+
+# AMA with [Avinash Jain](https://twitter.com/logicbomb_1)
 
 # About Avinash Jain 😎 and His success 💪
 
