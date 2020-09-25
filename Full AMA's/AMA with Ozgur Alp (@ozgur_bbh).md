@@ -1,4 +1,13 @@
-# AMA with Ozgur Alp (@ozgur_bbh)
+---
+layout: post
+title:  "Infosec/Bugbounty  AMA with Ozgur Alp"
+categories: infosec-bugbounty-ama
+---
+
+
+
+
+# AMA with [Ozgur Alp](https://twitter.com/ozgur_bbh)
 
 <br>
 
